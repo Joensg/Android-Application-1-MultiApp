@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiApp</string>
+    <string name="app_namesettings">MultiApp: Settings</string>
+    <string name="app_name1">MultiApp: Glowing Sketch Pad</string>
+    <string name="app_name2">MultiApp: Dancing Balls</string>
+    <string name="app_name3">MultiApp: Disco Lights!</string>
+    <string name="app_name4">MultiApp: Tic Tac Toe Game</string>
+    <string name="app_name5">MultiApp: ActivityFive</string>
+    <string name="app_name6">MultiApp: ActivitySix</string>
+    <string name="app_name7">MultiApp: ActivitySeven</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="About">About</string>
+    <string name="about_description">About</string>
+    <string name="about_question">Created by Joel Sequeira.</string>
+    <string name="visit_google">More..</string>
+    <string name="not_now">Close</string>
+    
+    <string name="ActivityOne">Glowing Sketch Pad</string>
+    <string name="ActivityTwo">Dancing Balls</string>
+    <string name="ActivityThree">Disco Lights</string>
+    <string name="ActivityFour">Tic Tac Toe</string>
+    <string name="ActivityFive">ActivityFive</string>
+    <string name="ActivitySix">ActivitySix</string>
+    <string name="ActivitySeven">ActivitySeven</string>
+    
+    <string name="pick">Choose Disco Lights!</string>
+    <string name="agree">Work in progress, kindly click close!</string>
+    
+    <string name="Close">Close</string>
+    <string name="Addball">Add Ball</string>
+    <string name="Deleteball">Delete Ball</string>
+    <string name="Clearcanvas">Clear Canvas</string>
+    <string name="SetNewBgColor">Set Color!</string>
+    
+    <string name="Transparency">Transparency</string>
+    <string name="Red">Red</string>
+    <string name="Green">Green</string>
+    <string name="Blue">Blue</string>
+    
+    <string name="cam_settings">Camera</string>
+    <string name="camera_icon_string">Camera</string>
+    <string name="stop_alarm_text">Cancel Alarm</string>
+    <string name="set_alarm_text">Set Alarm</string>
+    <string name="deletallpics">Delete all selfies</string>
+    <string name="about_text_title">About</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="dialog1_message">Do You really wish to delete all your Selfie Photos?</string>
+    <string name="dialog1_title">Delete All Selfie Photos</string>
+    <string name="about_text">An application that periodically reminds the user to take a selfie.
+        Over time the user will capture many selfies and thus will be able to see
+        him/her change.
+        The user can also set an alarm that notifies him/her every 24 hours after the alarm is set.
+        For testing purposes, this alarm has been configured for notification on every 2 minutes.
+        For setting the alarm, please select Set Alarm.
+    </string>
+    <string name="banner_alt">Image</string>
+
+</resources>

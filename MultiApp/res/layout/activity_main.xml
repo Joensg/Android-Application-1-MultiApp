@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/textView0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.jo.multiapp.MainActivity"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:text="@string/pick"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <Button
+        android:id="@+id/ActivityOne"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView1"
+        android:text="@string/ActivityOne" />
+    
+    <Button
+        android:id="@+id/ActivityTwo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/ActivityOne"
+        android:layout_below="@+id/ActivityOne"
+        android:text="@string/ActivityTwo" />
+    
+    <Button
+        android:id="@+id/ActivityThree"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/ActivityTwo"
+        android:text="@string/ActivityThree" />
+    
+    <Button
+        android:id="@+id/ActivityFour"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/ActivityThree"
+        android:text="@string/ActivityFour" />
+    
+    <Button
+        android:id="@+id/ActivityFive"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/ActivityFour"
+        android:text="@string/ActivityFive" />
+    
+    <Button
+        android:id="@+id/ActivitySix"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/ActivityFive"
+        android:text="@string/ActivitySix" />
+    
+    <Button
+        android:id="@+id/ActivitySeven"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/ActivitySix"
+        android:text="@string/ActivitySeven" />
+
+</RelativeLayout>
